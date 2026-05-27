@@ -5,4 +5,4 @@ Repositorio que aloja el desarrollo del proyecto de ML sobre la database HCV de 
 Se propusieron dos formulaciones para abordar el sistema de clasificación supervisada de enfermedad hepática: Binaria (en el notebook Pipeline_HCV_bin.ipynb) y Multiclase (en el notebook Pipeline_HCV_multi.ipynb).
 
 # Video-presentación
-Enlace: 
+Enlace: https://www.youtube.com/watch?v=2oXAposa6lI
